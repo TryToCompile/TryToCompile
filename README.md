@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center"> Hi! I'm Adam</h1>
+
+
+# 
+Dev from Belarus, i like everything connected with gamedev, like to play table tennis and programming.
+Now working in the company with RPGLE, JS and SQL DB2 
+
+
+
+
+
+
 
 <!--
 **TryToCompile/TryToCompile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

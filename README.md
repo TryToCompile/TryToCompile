@@ -3,9 +3,9 @@
 
 <h3 align="left">Tech stack: <img height="50" width="50" src="https://unpkg.com/simple-icons@v7/icons/dotnet.svg" />  <img height="50" width="50" src="https://unpkg.com/simple-icons@v7/icons/javascript.svg" /> </h3>
 
-
+//TODO: сделать грид
 [![trophy](https://github-profile-trophy.vercel.app/?username=TryToCompile&theme=dracula&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TryToCompile)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TryToCompile$theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **TryToCompile/TryToCompile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

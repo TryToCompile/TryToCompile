@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm Adam <img src="https://github.com/TryToCompile/TryToCompile/blob/main/gifs/Hi.gif" height="50"></h1>
 <h3 align="center">  Dev from Belarus, i like everything connected with gamedev, like to play table tennis and programming. Now working in the company with RPGLE, JS and SQL DB2 on IBM system I</h3>
 
-<h3 align="left">Tech stack:<img src="https://unpkg.com/browse/simple-icons@7.4.0/icons/dotnet.svg"/><img src="https://unpkg.com/browse/simple-icons@7.4.0/icons/javascript.svg"/><img src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg"/></h3>
+<h3 align="left">Tech stack:<img height="32" width="32" src="https://unpkg.com/browse/simple-icons@7.4.0/icons/dotnet.svg" /><img height="32" width="32" src="https://unpkg.com/browse/simple-icons@7.4.0/icons/javascript.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg" /></h3>
 
 
 

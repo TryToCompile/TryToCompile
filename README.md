@@ -1,4 +1,4 @@
-<section background-color="blue">
+<section style="background-color: aliceblue;">
 <h1 align="center"> Hi! I'm Adam <img src="https://github.com/TryToCompile/TryToCompile/blob/main/gifs/Hi.gif" height="50"></h1>
 <h3 align="center">  Dev from Belarus, i like everything connected with gamedev, like to play table tennis and programming. Now working in the company with RPGLE, JS and SQL DB2 on IBM system I</h3>
 

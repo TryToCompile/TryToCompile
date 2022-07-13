@@ -10,6 +10,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TryToCompile&theme=tokyonight_duo&fire=red)](https://git.io/streak-stats)  
 
 
+  [![codewars](https://www.codewars.com/users/TryToCompile/badges/large)](https://www.codewars.com/users/TryToCompile)  
 
 <!--
 **TryToCompile/TryToCompile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

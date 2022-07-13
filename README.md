@@ -1,6 +1,5 @@
 <h1 align="center"> Hi! I'm Adam <img src="https://github.com/TryToCompile/TryToCompile/blob/main/gifs/Hi.gif" height="50"></h1>
-<h3 align="center"> Dev from Belarus, i like everything connected with gamedev, like to play table tennis and programming. Now working in the company with RPGLE, JS and SQL DB2 on IBM system I</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<h3 align="center"> #512BD4 Dev from Belarus, i like everything connected with gamedev, like to play table tennis and programming. Now working in the company with RPGLE, JS and SQL DB2 on IBM system I</h3>
 
 
 

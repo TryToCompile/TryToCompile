@@ -2,9 +2,9 @@
 <h3 align="center">  Dev from Belarus, i like everything connected with gamedev, like to play table tennis and programming. Now working in the company with RPGLE, JS and SQL DB2 on IBM system I</h3>
 
 <h3 align="left">Tech stack:<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/dotnet.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/javascript.svg" /> </h3>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=TryToCompile)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--

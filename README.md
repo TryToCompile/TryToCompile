@@ -4,7 +4,7 @@
 <h3 align="left">Tech stack: <img height="50" width="50" src="https://unpkg.com/simple-icons@v7/icons/dotnet.svg" />  <img height="50" width="50" src="https://unpkg.com/simple-icons@v7/icons/javascript.svg" /> </h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TryToCompile&theme=onedark&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TryToCompile&theme=dracula&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--

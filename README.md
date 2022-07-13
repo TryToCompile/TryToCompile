@@ -1,9 +1,6 @@
-<h1 align="center"> Hi! I'm Adam</h1>
+<h1 align="center"> Hi! I'm Adam <img src="https://github.com/TryToCompile/TryToCompile/blob/main/gifs/Hi.gif" height="36"></h1>
+<h3 align="center"> Dev from Belarus, i like everything connected with gamedev, like to play table tennis and programming.Now working in the company with RPGLE, JS and SQL DB2 </h3>
 
-
-# 
-Dev from Belarus, i like everything connected with gamedev, like to play table tennis and programming.
-Now working in the company with RPGLE, JS and SQL DB2 
 
 
 

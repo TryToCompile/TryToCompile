@@ -4,6 +4,7 @@
 
 <h3 align="left">Tech stack: <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/dotnet.svg" />  <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/javascript.svg" /> <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/ibm-mini-as400.svg" /> </h3>
 
+  ### :fire: My Stats :
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryToCompile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=TryToCompile&theme=dracula&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)

@@ -10,6 +10,14 @@
     <summary>Top langs:</summary>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryToCompile&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
   </details>
+  <details>
+    <summary>
+      check
+    </summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TryToCompile&repo=github-readme-stats&theme=react" />
+</a>
+  </details>
   
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=TryToCompile&theme=dracula&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)

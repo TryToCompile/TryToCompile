@@ -6,20 +6,7 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=verdana&size=30&duration=2500&color=1F91F7&width=650&lines=%2F%E2%95%B2%2F%5C%E2%95%AD(%E0%B0%A0%E0%B0%A0%E7%9B%8A%E0%B0%A0%E0%B0%A0)%E2%95%AE%2F%5C%E2%95%B1%5C%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%A4(%EF%BD%A5_%E2%94%9C%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4" alt="Typing SVG" /></a>
   ### :fire: My Stats :
-  <details>
-    <summary>Top langs:</summary>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryToCompile&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-  </details>
-  <details>
-    <summary>
-      check
-    </summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TryToCompile&repo=github-readme-stats&theme=react" />
-</a>
-  </details>
-  
-  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryToCompile&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
   [![trophy](https://github-profile-trophy.vercel.app/?username=TryToCompile&theme=dracula&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 

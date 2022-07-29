@@ -4,7 +4,7 @@
 
 <h3 align="left">Tech stack: <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/dotnet.svg" />  <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/javascript.svg" /> <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/ibm-mini-as400.svg" /> </h3>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&size=30&duration=2000&vCenter=true&color=1F91F7&lines=┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&size=30&duration=2000&vCenter=true&color=1F91F7&lines=hii)](https://git.io/typing-svg)
   ### :fire: My Stats :
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryToCompile&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
   

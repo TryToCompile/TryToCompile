@@ -1,6 +1,6 @@
 <h1 align="center"> Hi! I'm Adam, <img src="https://github.com/TryToCompile/TryToCompile/blob/main/gifs/Hi.gif" height="50"></h1>
 <h3 align="center"> 22 years old dev from Belarus, I like everything connected with gamedev, like to play table tennis and programming. Now I'm working in the company with RPGLE, JS and SQL DB2 on IBM system I</h3>
-<p align="center"> :zap: I'm learning C#, Unity, reading books about gamedev and solving katas in my free time nowadays :zap:</p>
+<p align="center"> :zap: I'm learning C#, Unity, some other random interesting technologies, reading books about gamedev and solving katas in my free time nowadays :zap:</p>
 
 <h3 align="left">Tech stack: <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/dotnet.svg" />  <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/javascript.svg" /> <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/ibm-mini-as400.svg" /> </h3>
 

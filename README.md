@@ -21,6 +21,7 @@ Add lists:
 1) Programs, I have learned.
 2) Technologies, I have learned.
 3) "Homework" === Sololearn certificates, ulearn link, leetcode link
-4) Link to my portfolio project ( Maybe made it in GH pages )
+4) Link to my portfolio project ( Maybe made it in GH pages ) 
+5) Add some games to portfolio.
 END-TODO: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->

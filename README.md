@@ -22,7 +22,6 @@ Add lists:
 2) Technologies, I have learned.
 3) "Homework" === Sololearn certificates, ulearn link, leetcode link
 4) Link to my portfolio project ( Maybe made it in GH pages ) 
-5) Add some games to portfolio. Browser games?
-
+5) Add some games to portfolio. Browser games? I think tic-tac-toe, bomberman, snake
 END-TODO: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->

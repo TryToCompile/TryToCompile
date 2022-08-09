@@ -23,6 +23,6 @@ Add lists:
 3) "Homework" === Sololearn certificates, ulearn link, leetcode link
 4) Link to my portfolio project ( Maybe made it in GH pages ) 
 5) Add some games to portfolio. Browser games? I think tic-tac-toe, bomberman, snake
-6) Vue?
+6) Vue? Check projects with c# or js on freecodecamp!
 END-TODO: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->

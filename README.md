@@ -15,6 +15,7 @@
 
   [![codewars](https://www.codewars.com/users/TryToCompile/badges/large)](https://www.codewars.com/users/TryToCompile)
  [![LeetCode user TryToCompile](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTryToCompile&logo=leetcode&logoColor=yellow)](https://leetcode.com/TryToCompile/)
+ <iframe src="https://hackerrank-badge.herokuapp.com/TryToCompile" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 
 <!--
 TODO: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

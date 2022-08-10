@@ -26,5 +26,6 @@ Add lists:
 4) Link to my portfolio project ( Maybe made it in GH pages ) 
 5) Add some games to portfolio. Browser games? I think tic-tac-toe, bomberman, snake
 6) Vue? Check projects with c# or js on freecodecamp!
+7) Add or create hackerrank link badge
 END-TODO: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->

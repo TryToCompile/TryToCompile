@@ -27,5 +27,6 @@ Add lists:
 5) Add some games to portfolio. Browser games? I think tic-tac-toe, bomberman, snake
 6) Vue? Check projects with c# or js on freecodecamp!
 7) Add or create hackerrank link badge
+8) Visualise some algorithms, maybe?
 END-TODO: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->

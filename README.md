@@ -28,6 +28,6 @@ Add lists:
 6) Vue? Check projects with c# or js on freecodecamp!
 7) Add or create hackerrank link badge
 8) Visualise some algorithms, maybe? Dont forget to upload algorithms in algo repo
-9)
+9) 
 END-TODO: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->

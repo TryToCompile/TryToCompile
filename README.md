@@ -30,5 +30,6 @@ Add lists:
 8) Visualise some algorithms, maybe? Dont forget to upload algorithms in algo repo
 9) Какой-то сайт с хорошими визуализациями алгоритмов, LOG2BASE10.COM
 10) Возможно, есть вариант с подключением юнити?
+11) WHERE'S MY TIME TO LEARN, AAAAAAAAAAAAAAAAAAAAAAAAAA
 END-TODO: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -->

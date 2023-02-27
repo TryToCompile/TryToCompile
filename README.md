@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm Adam, <img src="https://github.com/TryToCompile/TryToCompile/blob/main/gifs/Hi.gif" height="50"></h1>
-<h3 align="center"> 23 years old dev from Belarus, I like everything connected with gamedev and games, like to play table tennis, to code and to eat new types of food. Now I'm working in the company with APACHE, RPGLE, JS and SQL DB2 on IBM system I (as400)</h3>
+<h3 align="center"> 23 years old dev from Belarus, I like everything connected with gamedev and games, like to play table tennis, to code and to eat new types of food. Now I'm learning RPGLE, JS and some IBM systems</h3>
 <p align="center"> :zap: I'm learning C#, Unity, some other random interesting technologies, reading books about gamedev and solving codewars/leetcode/hackerrank in my free time nowadays :zap:</p>
 <h3 align="center">Tech stack: <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/dotnet.svg" />  <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/javascript.svg" /> <a href="https://en.wikipedia.org/wiki/IBM_AS/400"><img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/ibm-mini-as400.svg" /> </a> </h3>
 

@@ -11,7 +11,6 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=TryToCompile&theme=dracula&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TryToCompile&theme=tokyonight_duo&fire=ecb613)](https://git.io/streak-stats)  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=TryToCompile)](https://git.io/streak-stats)
   [![codewars](https://www.codewars.com/users/TryToCompile/badges/large)](https://www.codewars.com/users/TryToCompile)
  [![LeetCode user TryToCompile](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTryToCompile&logo=leetcode&logoColor=yellow)](https://leetcode.com/TryToCompile/)
   

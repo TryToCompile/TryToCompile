@@ -13,9 +13,11 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TryToCompile&theme=tokyonight_duo&fire=ecb613)](https://git.io/streak-stats)  
   [![codewars](https://www.codewars.com/users/TryToCompile/badges/large)](https://www.codewars.com/users/TryToCompile)
  [![LeetCode user TryToCompile](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTryToCompile&logo=leetcode&logoColor=yellow)](https://leetcode.com/TryToCompile/)
+
   
  </div>
  <div align="center">
+   <iframe src="https://hackerrank-badge.herokuapp.com/TryToCompile" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
    <a href="https://app.daily.dev/trytocompile"><img src="https://api.daily.dev/devcards/v2/iXHhzQwd81PavTmfBxvXW.png?type=default&r=r7m" width="356" alt="Adam's Dev Card"/></a>
  </div>
 <!--

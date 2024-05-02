@@ -17,7 +17,7 @@
   
  </div>
  <div align="center">
-   <iframe src="https://hackerrank-badge.herokuapp.com/TryToCompile" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+   
    <a href="https://app.daily.dev/trytocompile"><img src="https://api.daily.dev/devcards/v2/iXHhzQwd81PavTmfBxvXW.png?type=default&r=r7m" width="356" alt="Adam's Dev Card"/></a>
  </div>
 <!--

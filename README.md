@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm Adam, <img src="https://github.com/TryToCompile/TryToCompile/blob/main/gifs/Hi.gif" height="50"></h1>
-<h3 align="center"> 24 years old dev from Belarus, have a passion for games and code. Like to play table tennis, volleyball and to have fun with AI, especially with SD. Now I'm learning RPG ILE, JS, SQL, REST API, TG BOTS </h3>
+<h3 align="center"> 24 years old dev from Belarus, have a passion for games and tech stuff. Like to play table tennis, volleyball and to have fun with AI, especially with SD. Now I'm stydying RPG ILE, JS, SQL, REST API, TG BOTS, C#</h3>
 <p align="center"> :zap:  :zap:</p>
 <h3 align="center">Tech stack: <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/dotnet.svg" />  <img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/javascript.svg" /> <a href="https://en.wikipedia.org/wiki/IBM_AS/400"><img height="50" width="50" src="https://github.com/TryToCompile/TryToCompile/blob/main/ibm-mini-as400.svg" /> </a
   
